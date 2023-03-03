@@ -1,0 +1,4 @@
+name: Autoshutdown
+version: '${project.version}'
+main: ollivarila.autoshutdown.Autoshutdown
+api-version: 1.19
